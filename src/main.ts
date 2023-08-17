@@ -1,8 +1,8 @@
 //import { name, age, stringsito } from './bases/01-type.ts';
 //import {bulbasaur} from './bases/02-objects.ts';
 //import { charmander } from './bases/03-clases.ts'
-import { charmander } from './bases/04-injection.ts'
-
+//import { charmander } from './bases/04-injection.ts'
+import { charmander } from './bases/05-decorators.ts'
 
 import './style.css'
 import typescriptLogo from './typescript.svg'
